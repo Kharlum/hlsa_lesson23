@@ -1,7 +1,7 @@
 1. setup 2 instance of EC2 (AWS)  
-1.1. install docker
-1.2. push image with asp.net core api
-1.3. run docker container with asp.net core api
+1.1. install docker  
+1.2. push image with asp.net core api  
+1.3. run docker container with asp.net core api  
 ![C10](screens/ec2_instances.jpg)  
 
 2. setup classic load balancer  
