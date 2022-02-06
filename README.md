@@ -19,7 +19,7 @@
 ![C10](screens/traffic.jpg)
 ![C10](screens/traffic_balancer.jpg)  
 
-For check loadbalancer work:  
+For check load balancer work:  
 ```
 siege -c60 -t60S http://{dns_domain_load_balancer}/api/health/healthy 
 ```
